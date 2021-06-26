@@ -1,0 +1,3 @@
+working through The Odin Project's Git Basics, hopefully this fills the gaps in my 'knowledge'!
+
+and hello, world.
